@@ -1,11 +1,12 @@
-# DDoS Project
-A Project Demonstrating the Distributed Denial of Service Attack using a Angent Handler Stratergy
+# Distributed Denial of Service Attack (DDoS)
+A Small Real-Time Simulation of the Distributed Denial of Service Attack using a Angent Handler Stratergy made as a part of the computer networks course project
 
-# TODOs
+# Future Works
+  Addition of More Attack Simulations
+   
+  1. UDPFlood
+  2. TCPpsh + ACK
+  3. Smurf Attacks
 
-1. Convert and modify the Botmaker file in c
-2. Create the Botsearcher file
-3. Create the attacking source file for the following DDoS Attacks
-	
-	* TCP SYN-Flood Attack
-	* UDPFlood Attack
+# ToDo
+  Update Readme when free
